@@ -1,0 +1,24 @@
+.container{
+background-color: blueviolet;
+position: relative;
+width: 30%;
+margin: auto;
+/* top: 100px; */
+padding: 10px;
+}
+.ImgP{
+    margin: auto;
+    width: 420px;
+    height: auto;
+    border-radius: 10px;
+}
+.intro input{
+    display:block;
+    background-color: yellow;
+    /* justify-content: space-between; */
+    border: none;
+}
+.posttitle{
+    text-align: center;
+
+}
